@@ -1,0 +1,8 @@
+# Dependencies
+node_modules/
+
+# Package manager lock files (only keep the one used)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+# bun.lockb
